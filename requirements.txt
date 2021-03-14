@@ -1,5 +1,5 @@
 six
-spacy
+spacy==2.3.5
 nltk
 networkx
 numpy
